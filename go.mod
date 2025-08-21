@@ -8,7 +8,7 @@ require (
 	github.com/jhump/protoreflect v1.17.0
 	github.com/spf13/cobra v1.9.1
 	github.com/twmb/franz-go v1.16.0
-	github.com/twmb/franz-go/pkg/kadm v1.11.0
+	github.com/twmb/franz-go/pkg/kadm v1.10.0
 	github.com/twmb/franz-go/pkg/kmsg v1.11.2
 	github.com/twmb/go-strftime v0.0.0-20190915101236-e74f7c4fe4fa
 	golang.org/x/crypto v0.41.0
